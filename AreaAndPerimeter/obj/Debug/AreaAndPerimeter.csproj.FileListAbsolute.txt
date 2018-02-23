@@ -1,0 +1,9 @@
+C:\Users\s220500\Desktop\Jadon Fournier\Unit 1 (Problem Solving)\AreaAndPerimeterJadonF\AreaAndPerimeter\AreaAndPerimeter\bin\Debug\AreaAndPerimeter.exe.config
+C:\Users\s220500\Desktop\Jadon Fournier\Unit 1 (Problem Solving)\AreaAndPerimeterJadonF\AreaAndPerimeter\AreaAndPerimeter\bin\Debug\AreaAndPerimeter.exe
+C:\Users\s220500\Desktop\Jadon Fournier\Unit 1 (Problem Solving)\AreaAndPerimeterJadonF\AreaAndPerimeter\AreaAndPerimeter\bin\Debug\AreaAndPerimeter.pdb
+C:\Users\s220500\Desktop\Jadon Fournier\Unit 1 (Problem Solving)\AreaAndPerimeterJadonF\AreaAndPerimeter\AreaAndPerimeter\obj\Debug\AreaAndPerimeter.csprojResolveAssemblyReference.cache
+C:\Users\s220500\Desktop\Jadon Fournier\Unit 1 (Problem Solving)\AreaAndPerimeterJadonF\AreaAndPerimeter\AreaAndPerimeter\obj\Debug\AreaAndPerimeter.frmAreaAndPerimeter.resources
+C:\Users\s220500\Desktop\Jadon Fournier\Unit 1 (Problem Solving)\AreaAndPerimeterJadonF\AreaAndPerimeter\AreaAndPerimeter\obj\Debug\AreaAndPerimeter.Properties.Resources.resources
+C:\Users\s220500\Desktop\Jadon Fournier\Unit 1 (Problem Solving)\AreaAndPerimeterJadonF\AreaAndPerimeter\AreaAndPerimeter\obj\Debug\AreaAndPerimeter.csproj.GenerateResource.Cache
+C:\Users\s220500\Desktop\Jadon Fournier\Unit 1 (Problem Solving)\AreaAndPerimeterJadonF\AreaAndPerimeter\AreaAndPerimeter\obj\Debug\AreaAndPerimeter.exe
+C:\Users\s220500\Desktop\Jadon Fournier\Unit 1 (Problem Solving)\AreaAndPerimeterJadonF\AreaAndPerimeter\AreaAndPerimeter\obj\Debug\AreaAndPerimeter.pdb
